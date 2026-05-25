@@ -1,0 +1,63 @@
+# Calenta Privacy Policy
+
+*Last updated: May 24, 2026*
+
+Calenta ("the App") is committed to protecting your privacy. This policy explains what data we collect, how it's used, and your rights.
+
+## Data We Collect
+
+### Health Data (via Apple HealthKit)
+The App reads the following data from Apple Health with your permission:
+- Heart rate and resting heart rate
+- Active and basal energy burned
+- Workout data
+- Sleeping wrist temperature
+- Heart rate variability
+
+This data is used to estimate calorie intake through passive meal detection and to calculate calories burned.
+
+### Profile Data
+You may enter personal information including height, weight, age, sex, and activity preferences. This data is stored on your device and in your personal iCloud account to personalize calorie calculations.
+
+### Weight Entries
+Weight data you enter is stored to track trends and improve the accuracy of calorie estimates over time.
+
+## How Your Data Is Processed
+
+- **On-device processing**: All calorie calculations, meal detection, and AI-powered meal estimation run entirely on your device. Your health data is never sent to external servers.
+- **iCloud sync**: Your profile, entries, and settings sync via your personal iCloud account so your data is available across your devices. Only you can access this data.
+- **No third-party sharing**: Your individual health data is never shared with, sold to, or accessed by third parties.
+
+## Anonymized & Aggregated Data
+
+We may collect anonymized, aggregated usage data (such as average detection accuracy across all users) to improve our algorithms. This data cannot be traced back to any individual user and contains no personal health information.
+
+## Data Storage & Security
+
+- All personal data is stored locally on your device and in your private iCloud account
+- We do not operate external servers that store your health data
+- Data is protected by Apple's device encryption and iCloud security
+
+## Your Rights
+
+- **Access**: You can view all your data within the App at any time
+- **Deletion**: You can delete your data by removing the App. iCloud data can be managed through your device's iCloud settings
+- **Revoke permissions**: You can revoke HealthKit access at any time in Settings > Privacy & Security > Health > Calenta
+
+## Children's Privacy
+
+Calenta is not intended for use by children under 17. We do not knowingly collect data from children.
+
+## Medical Disclaimer
+
+Calenta is not a medical device. All calorie values are estimates and should not be used for medical decisions. Consult a healthcare provider before making dietary changes.
+
+## Changes to This Policy
+
+We may update this policy from time to time. Changes will be reflected by the "Last updated" date above.
+
+## Contact
+
+If you have questions about this privacy policy, contact us at:
+
+mtefera2424@gmail.com
