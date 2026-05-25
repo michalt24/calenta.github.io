@@ -1,0 +1,36 @@
+# Calenta Support
+
+## Frequently Asked Questions
+
+### How does Calenta detect meals?
+Calenta uses your Apple Watch heart rate data to detect the thermic effect of food — the natural rise in heart rate that occurs after eating. This is completely passive and requires no manual input.
+
+### Do I need an Apple Watch?
+An Apple Watch is recommended for automatic meal detection and accurate calorie tracking. Without one, the App uses profile-based estimates for calories consumed and burned.
+
+### How accurate are the calorie estimates?
+Estimates improve over time as the App learns your personal patterns. Daily values may vary, but weekly averages are much more reliable. Log meals and weigh in regularly to help the App calibrate.
+
+### Why don't I see any consumed calories?
+Consumed calories appear after meals are detected via your Apple Watch or when you manually log a meal. If you haven't eaten yet or aren't wearing your watch, the value will show zero until data is available.
+
+### How do I improve accuracy?
+- Wear your Apple Watch consistently
+- Log your weight weekly
+- Confirm or dismiss detected meals when prompted
+- Fill out your profile completely
+- Use the AI meal logger when you want detailed breakdowns
+
+### Is my data private?
+Yes. All processing happens on your device. Your data syncs only through your personal iCloud account. We never share individual health data with third parties. See our [Privacy Policy](privacy) for full details.
+
+### How do I delete my data?
+Deleting the App removes all local data. To remove iCloud data, go to Settings > [Your Name] > iCloud > Manage Storage > Calenta.
+
+## Contact Us
+
+For bugs, feature requests, or questions:
+
+**Email**: mtefera2424@gmail.com
+
+We typically respond within 48 hours.
